@@ -1,25 +1,6 @@
 {
-  "name": "(google-connector)",
-  "version": "0.0.0",
-  "description": "This is trial app",
+  "name": "node-authentication",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/navenduagarwal/google.git"
-  },
-  "keywords": [
-    "example",
-    "google"
-  ],
-  "author": "navendu",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/navenduagarwal/fbnode/issues"
-  },
-  "homepage": "https://github.com/navenduagarwal/fbnode",
   "dependencies" : {
     "express" : "~3.4.4", 			
     "ejs" : "~0.8.5", 				
